@@ -28,6 +28,7 @@ public class Alien {
 	public void setaName(String aName) {
 		this.aName = aName;
 	}
+	System.out.println("hello");
 
 	@Override
 	public String toString() {
